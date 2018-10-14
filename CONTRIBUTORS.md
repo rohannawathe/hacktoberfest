@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rohan Nawathe](https://github.com/rohannawathe)
+- Place: Ahmedabad, India
+- Bio: Just your friendly neighborhood NITian
+- GitHub: [rohannawathe](https://github.com/rohannawathe)
